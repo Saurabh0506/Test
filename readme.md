@@ -1,7 +1,2 @@
 Added some linkedin features
-:wq
-
-
-
-
-
+Added some Google features
